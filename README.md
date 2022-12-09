@@ -14,7 +14,7 @@ Hi this is kingston semon i working on a project for school for our own website 
 		<h1>Kingstonflcs.github.io</h1>
 <p>i dont like mashed potatoes.</p>
 <hr>
-<h2>https://github.com/Kingstonflcs/Kingstonflcs.github.io</h2>
+<h2>MY favorite websites</h2>
 <ul>
     <li><a href="https://github.com/"> Github</a></li>
     <li><a href=" https://www.opera.com/">Opera</a></li>
@@ -22,12 +22,12 @@ Hi this is kingston semon i working on a project for school for our own website 
     <li><a href=" https://www.youtube.com">youtube</a></li>
 </ul>
 <hr>
-<h2>v12 ’</h2>
+<h2>some of my favorite songs ’</h2>
 <ul>
     <li><a href="Lil Mosey - Blueberry Faygo (Directed by Cole Bennett)">Blueberry faygo Lil mosey</a></li>
-    <li><a href="youtube link">Song Title and Artist</a></li>
-    <li><a href="youtube link">Song Title and Artist</a></li>
-    <li><a href="youtube link">Song Title and Artist</a></li>   
+    <li><a href="A boogie wit the hoodie feat Kodak Black">Drowning</a></li>
+    <li><a href="The Living Tombstone ">My Oridinary Life</a></li>
+    <li><a href="Chillmadeit">when the world end</a></li>   
 </ul>
 	</body>
 </html>
