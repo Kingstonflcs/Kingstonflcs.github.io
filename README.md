@@ -1,5 +1,6 @@
-Hi this is kingston semon i working on a project for school for our own website on here youll probalby find nothing of intrest except my website i created
+Hi this is kingston semon i working on a project for school for our own website on here youll probalby find nothing of intrest except my website i created.Also if you click on a link and it appears not to work like the cookie city one just type in cookie clicker city into your searcch bar and find the website. It appears as some of the links dont work.
 <!DOCTYPE html>
+
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
