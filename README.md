@@ -5,7 +5,7 @@ Hi this is kingston semon i working on a project for school for our own website 
 	<head>
 		<meta charset="utf-8" />
 <!-- This is the title that will show up in the browser tab -->
-		<title> https://github.com/Kingstonflcs/Kingstonflcs.github.io” 	</title>
+		<title> [https://github.com/Kingstonflcs/Kingstonflcs.github.io](https://github.com/Kingstonflcs/Kingstonflcs.github.io/blob/main/README.md)” 	</title>
 		<meta name="description" content="" />
 		<meta name="author" content="Kingstonflcs" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
